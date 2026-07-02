@@ -38,7 +38,5 @@ Hey, I'm Uma 👋<br><br>I'm a software engineer who loves building things end-t
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=uma-1510&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
