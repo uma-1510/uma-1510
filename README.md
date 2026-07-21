@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Uma 👋<br><br>I'm a software engineer who loves building things end-to-end — from <br>database schemas to AI-powered chat interfaces.<br><br>🔭 Current projects: Building end-to-end Full Stack + AI systems<br>🌱 Exploring: agentic systems, MCP servers, vector databases<br>💬 Ask me about: distributed systems, RAG pipelines, Vector DBs<br>⚡ Fun fact: sunsets + pizza = my recharge combo<br>📫 Looking for SWE / AI Engineer roles in the US · Boston-based · Open to remote
+Hey, I'm Uma 👋<br><br>I'm a software engineer who loves building things end-to-end — from <br>database schemas to AI-powered chat interfaces.<br><br>🔭
 
 
 ## 🌐 Socials:
