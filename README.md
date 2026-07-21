@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hey, I'm Uma 👋<br><br>I'm a software engineer who loves building things end-to-end — from <br>database schemas to AI-powered chat interfaces.
-
+Hey, I'm Uma 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uma-chinnam-ab030320b/)
