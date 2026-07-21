@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Uma 👋<br><br>I'm a software engineer who loves building things end-to-end — from <br>database schemas to AI-powered chat interfaces.<br><br>🔭
+Hey, I'm Uma 👋<br><br>I'm a software engineer who loves building things end-to-end — from <br>database schemas to AI-powered chat interfaces.
 
 
 ## 🌐 Socials:
